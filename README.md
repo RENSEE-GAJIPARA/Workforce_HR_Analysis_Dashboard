@@ -15,7 +15,8 @@
 
 ## 📊 Dashboard Preview
 
-![HR Workforce Analytics Dashboard](dashboard_preview.png)
+<img width="1327" height="743" alt="Dashboard" src="https://github.com/user-attachments/assets/bac01e54-2f2f-4582-b72b-9918999b3c3d" />
+
 
 > 🎬 **A full video walkthrough explaining this project — the data model, DAX logic, and dashboard design — is included in this repository.**
 
@@ -229,7 +230,7 @@ All visuals are cross-filtered — selecting any slicer or chart segment updates
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=2E75B6&center=true&vCenter=true&width=500&lines=Built+with+%E2%9D%A4%EF%B8%8F+by+Rensee+Gajipara+%7C+B.Tech+AI+%26+Data+Science+%7C+2027" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=2E75B6&center=true&vCenter=true&width=500&lines=Built+with+%E2%9D%A4%EF%B8%8F+by+Rensee+Gajipara+%26+Data+Science" alt="Footer" />
 
 [![Author](https://img.shields.io/badge/Author-RENSEE%20GAJIPARA-2E75B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RENSEE-GAJIPARA)
 [![GitHub](https://img.shields.io/badge/GitHub-RENSEE--GAJIPARA-181717?style=for-the-badge&logo=github)](https://github.com/RENSEE-GAJIPARA)
